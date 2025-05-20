@@ -18,7 +18,7 @@ BugTriage-Fix utilise GPT-4.1 mini pour analyser les rapports de bugs GitHub et 
 1. Clonez ce repository:
 
    ```bash
-   git clone https://github.com/votre-username/BugTriage-Fix.git
+   git clone https://github.com/SKYLXN/BugTriage-Fix.git
    cd BugTriage-Fix
    ```
 
