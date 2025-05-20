@@ -1,0 +1,4 @@
+openai:
+  endpoint: ${AZURE_OPENAI_ENDPOINT}
+  deployment: ${AZURE_OPENAI_DEPLOYMENT}
+  api_key: ${AZURE_OPENAI_API_KEY}
